@@ -1,11 +1,11 @@
-request_id:
-asl_name:
-user_id:
-user_name:
-scaling_type:
-start_date:
-end_date:
-max_size:
-min_size:
-emr_version:
-approval_status:
+approval_status: false
+asl_name: Trial_ASL
+emr_version: v2
+end_date: '2024-06-25'
+max_size: 50
+min_size: 0
+request_id: '1234567890'
+scaling_type: upscalescale
+start_date: '2024-06-20'
+user_id: '876'
+user_name: amsiaha
